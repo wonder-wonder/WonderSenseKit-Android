@@ -1,0 +1,4 @@
+ninja: Entering directory `/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/app/.cxx/cmake/debug/x86_64'
+[1/3] Building CXX object CMakeFiles/native-lib.dir/include/parser.cpp.o
+[2/3] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[3/3] Linking CXX shared library /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so

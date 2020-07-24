@@ -1,0 +1,11 @@
+Executable : /home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/arm64-v8a
+correction
+fkf
+native
+parser
+quaternion
+jvmArgs : 
+

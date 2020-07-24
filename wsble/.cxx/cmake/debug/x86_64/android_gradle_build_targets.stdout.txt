@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64'
+ninja: no work to do.
