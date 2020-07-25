@@ -1,0 +1,20 @@
+Executable : /home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/app/src/main/cpp
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/home/marsh/Android/Sdk/ndk/20.0.5594570
+-DANDROID_PLATFORM=android-16
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=/home/marsh/Android/Sdk/ndk/20.0.5594570
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/app/build/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_MAKE_PROGRAM=/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-B/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/app/.cxx/cmake/debug/arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

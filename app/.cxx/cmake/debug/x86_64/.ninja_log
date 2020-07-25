@@ -1,0 +1,5 @@
+# ninja log v5
+1	650	1587781722	CMakeFiles/native-lib.dir/include/parser.cpp.o	a17f78f0beebf29b
+0	682	1587781722	CMakeFiles/native-lib.dir/native-lib.cpp.o	a27fd062a5026260
+682	760	1587781722	/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	257e4e6ebad9b872
+0	6	0	clean	2d10bd1c73fa4dba
