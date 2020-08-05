@@ -2,481 +2,427 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Trying to locate CMake in local SDK repository.",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "- CMake found in SDK at \u0027/home/marsh/Android/Sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "rebuilding JSON /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/android_gradle_build.json due to:",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "rebuilding JSON /home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86/android_gradle_build.json due to:",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "- force flag, will remove stale json folder",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "removing stale contents from \u0027/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86\u0027",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "removing stale contents from \u0027/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\u0027",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "created folder \u0027/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86\u0027",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "created folder \u0027/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\u0027",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "executing cmake Executable : /home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86\n-DCMAKE_MAKE_PROGRAM\u003d/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-B/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86\n-GNinja\njvmArgs : \n\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "executing cmake Executable : /home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86\n-DCMAKE_MAKE_PROGRAM\u003d/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-B/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\n-GNinja\njvmArgs : \n\n",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp\",\n  \"buildDirectory\": \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86\",\n  \"generator\": \"Ninja\"\n}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp\",\n  \"buildDirectory\": \"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/marsh/Android/Sdk/ndk/20.0.5594570\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Check for working C compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Check for working C compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting C compiler ABI info",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting C compiler ABI info - done",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting C compile features",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting C compile features - done",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Check for working CXX compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Check for working CXX compiler: /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting CXX compiler ABI info",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting CXX compiler ABI info - done",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting CXX compile features",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Detecting CXX compile features - done",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":377,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":398,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":919,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":940,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":960,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":979,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":950,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Configuring done",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"type\":\"compute\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":200,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":400,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":600,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
-    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":800,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":500,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "Generating done",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"type\":\"cmakeInputs\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake\",\"/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"correction/CMakeLists.txt\",\"fkf/CMakeLists.txt\",\"fkf/quaternion/CMakeLists.txt\",\"parser/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.c\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.c\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.c\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp\",\"type\":\"reply\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake\",\"/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"parser/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.c\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.c\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.c\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/feature_tests.cxx\",\"../.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/home/marsh/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp\",\"type\":\"reply\"}\n",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "{\"type\":\"codemodel\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86\",\"name\":\"Project\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp\",\"targets\":[{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libcorrection.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/correction\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"correction_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"correction.cpp\"]}],\"fullName\":\"libcorrection.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"correction\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/correction\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libfkf.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/fkf\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"fkf_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"quatTest.cpp\"]}],\"fullName\":\"libfkf.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libquaternion.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"fkf\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libquaternion.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/fkf/quaternion\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"quaternion_EXPORTS\"],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"fast_kalman_filter.c\",\"matrix.c\",\"quat.c\",\"sensor.c\"]}],\"fullName\":\"libquaternion.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"quaternion\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libnative.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"native_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"parser.cpp\",\"correction.cpp\",\"fkf.cpp\"]}],\"fullName\":\"libnative.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libfkf.so /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libcorrection.so /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libquaternion.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/parser\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"parser_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"parser.cpp\"]}],\"fullName\":\"libparser.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"parser\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/correction\",\"name\":\"correction_lib\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/correction\",\"targets\":[{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libcorrection.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/correction\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"correction_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"correction.cpp\"]}],\"fullName\":\"libcorrection.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"correction\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/correction\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/fkf\",\"name\":\"fkf_lib\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf\",\"targets\":[{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libfkf.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/fkf\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"fkf_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"quatTest.cpp\"]}],\"fullName\":\"libfkf.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libquaternion.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"fkf\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libquaternion.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/fkf/quaternion\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"quaternion_EXPORTS\"],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"fast_kalman_filter.c\",\"matrix.c\",\"quat.c\",\"sensor.c\"]}],\"fullName\":\"libquaternion.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"quaternion\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/parser\",\"name\":\"parser_lib\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser\",\"targets\":[{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/parser\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"parser_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"parser.cpp\"]}],\"fullName\":\"libparser.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"parser\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/fkf/quaternion\",\"name\":\"quaternion_lib\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion\",\"targets\":[{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86/libquaternion.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/fkf/quaternion\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"quaternion_EXPORTS\"],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"fast_kalman_filter.c\",\"matrix.c\",\"quat.c\",\"sensor.c\"]}],\"fullName\":\"libquaternion.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"quaternion\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\",\"name\":\"Project\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp\",\"targets\":[{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libnative.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"native_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"parser.cpp\"]}],\"fullName\":\"libnative.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so /home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86/parser\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"parser_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"parser.cpp\"]}],\"fullName\":\"libparser.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"parser\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86/parser\",\"name\":\"parser_lib\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser\",\"targets\":[{\"artifacts\":[\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so\"],\"buildDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86/parser\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"parser_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"parser.cpp\"]}],\"fullName\":\"libparser.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"parser\",\"sourceDirectory\":\"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser\",\"sysroot\":\"/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "done executing cmake",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "write build output /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/build_output.txt",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "write build output /home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86/build_output.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
-    "message": "write command file /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86/build_command.txt",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "message": "write command file /home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86/build_command.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   },
   {
     "level": "INFO",
     "message": "JSON generation completed without problems",
-    "file": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt",
+    "file": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt",
     "tag": "debug|x86"
   }
 ]

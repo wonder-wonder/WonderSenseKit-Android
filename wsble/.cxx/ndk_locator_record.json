@@ -1,5 +1,5 @@
 {
-  "ndkFolder": "/home/marsh/Android/Sdk/ndk/21.0.6113669",
+  "ndkFolder": "/home/marsh/Android/Sdk/ndk/20.0.5594570",
   "messages": [
     {
       "level": "INFO",
@@ -11,19 +11,15 @@
     },
     {
       "level": "INFO",
-      "message": "ANDROID_NDK_HOME environment variable is /home/marsh/Android/Sdk/ndk/21.0.6113669"
+      "message": "ANDROID_NDK_HOME environment variable is not set"
     },
     {
       "level": "INFO",
       "message": "sdkFolder is /home/marsh/Android/Sdk"
     },
     {
-      "level": "WARN",
-      "message": "Support for ANDROID_NDK_HOME is deprecated and will be removed in the future. Use android.ndkVersion in build.gradle instead."
-    },
-    {
       "level": "INFO",
-      "message": "Considering /home/marsh/Android/Sdk/ndk/21.0.6113669 by ANDROID_NDK_HOME"
+      "message": "Because no explicit NDK was requested, the default version \u002720.0.5594570\u0027 for this Android Gradle Plugin will be used"
     },
     {
       "level": "INFO",
@@ -43,7 +39,7 @@
     },
     {
       "level": "INFO",
-      "message": "No user requested version, choosing /home/marsh/Android/Sdk/ndk/21.0.6113669 which is version 21.0.6113669"
+      "message": "Found requested NDK version 20.0.5594570 at /home/marsh/Android/Sdk/ndk/20.0.5594570"
     }
   ]
 }
