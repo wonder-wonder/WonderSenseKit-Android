@@ -41,63 +41,6 @@ rule CXX_SHARED_LIBRARY_LINKER__native
 #############################################
 # Rule for compiling CXX files.
 
-rule CXX_COMPILER__correction
-  depfile = $DEP_FILE
-  deps = gcc
-  command = /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot  $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
-  description = Building CXX object $out
-
-
-#############################################
-# Rule for linking CXX shared library.
-
-rule CXX_SHARED_LIBRARY_LINKER__correction
-  command = $PRE_LINK && /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -fPIC $LANGUAGE_COMPILE_FLAGS $ARCH_FLAGS $LINK_FLAGS -shared $SONAME_FLAG$SONAME -o $TARGET_FILE $in $LINK_PATH $LINK_LIBRARIES && $POST_BUILD
-  description = Linking CXX shared library $TARGET_FILE
-  restat = $RESTAT
-
-
-#############################################
-# Rule for compiling CXX files.
-
-rule CXX_COMPILER__fkf
-  depfile = $DEP_FILE
-  deps = gcc
-  command = /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot  $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
-  description = Building CXX object $out
-
-
-#############################################
-# Rule for linking CXX shared library.
-
-rule CXX_SHARED_LIBRARY_LINKER__fkf
-  command = $PRE_LINK && /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -fPIC $LANGUAGE_COMPILE_FLAGS $ARCH_FLAGS $LINK_FLAGS -shared $SONAME_FLAG$SONAME -o $TARGET_FILE $in $LINK_PATH $LINK_LIBRARIES && $POST_BUILD
-  description = Linking CXX shared library $TARGET_FILE
-  restat = $RESTAT
-
-
-#############################################
-# Rule for compiling C files.
-
-rule C_COMPILER__quaternion
-  depfile = $DEP_FILE
-  deps = gcc
-  command = /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out   -c $in
-  description = Building C object $out
-
-
-#############################################
-# Rule for linking C shared library.
-
-rule C_SHARED_LIBRARY_LINKER__quaternion
-  command = $PRE_LINK && /home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -fPIC $LANGUAGE_COMPILE_FLAGS $ARCH_FLAGS $LINK_FLAGS -shared $SONAME_FLAG$SONAME -o $TARGET_FILE $in $LINK_PATH $LINK_LIBRARIES && $POST_BUILD
-  description = Linking C shared library $TARGET_FILE
-  restat = $RESTAT
-
-
-#############################################
-# Rule for compiling CXX files.
-
 rule CXX_COMPILER__parser
   depfile = $DEP_FILE
   deps = gcc
@@ -118,7 +61,7 @@ rule CXX_SHARED_LIBRARY_LINKER__parser
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/cmake -H/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp -B/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64
+  command = /home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/cmake -H/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp -B/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86_64
   description = Re-running CMake...
   generator = 1
 

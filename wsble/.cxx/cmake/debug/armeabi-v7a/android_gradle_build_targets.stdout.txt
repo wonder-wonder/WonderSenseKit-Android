@@ -1,8 +1,0 @@
-ninja: Entering directory `/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a'
-[1/3] Building CXX object CMakeFiles/native.dir/fkf.cpp.o
-[2/3] Building CXX object CMakeFiles/native.dir/parser.cpp.o
-/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser.cpp:39:12: warning: returning reference to local temporary object [-Wreturn-stack-address]
-    return ss.str();
-           ^~~~~~~~
-1 warning generated.
-[3/3] Linking CXX shared library /home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative.so

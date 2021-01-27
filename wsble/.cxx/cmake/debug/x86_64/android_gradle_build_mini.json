@@ -1,47 +1,26 @@
 {
   "buildFiles": [
     "/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser/CMakeLists.txt",
+    "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser/CMakeLists.txt",
     "/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/CMakeLists.txt",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/correction/CMakeLists.txt",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion/CMakeLists.txt",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt"
+    "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64\" clean"
+    "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86_64\" clean"
   ],
-  "buildTargetsCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "parser-Debug-x86_64": {
       "artifactName": "parser",
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64\" parser",
+      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86_64\" parser",
       "abi": "x86_64",
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86_64/libparser.so"
-    },
-    "fkf-Debug-x86_64": {
-      "artifactName": "fkf",
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64\" fkf",
-      "abi": "x86_64",
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86_64/libfkf.so"
-    },
-    "correction-Debug-x86_64": {
-      "artifactName": "correction",
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64\" correction",
-      "abi": "x86_64",
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86_64/libcorrection.so"
-    },
-    "quaternion-Debug-x86_64": {
-      "artifactName": "quaternion",
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64\" quaternion",
-      "abi": "x86_64",
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86_64/libquaternion.so"
+      "output": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86_64/libparser.so"
     },
     "native-Debug-x86_64": {
       "artifactName": "native",
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/x86_64\" native",
+      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86_64\" native",
       "abi": "x86_64",
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/x86_64/libnative.so"
+      "output": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86_64/libnative.so"
     }
   }
 }

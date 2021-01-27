@@ -1,26 +1,26 @@
 {
   "buildFiles": [
     "/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
-    "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser/CMakeLists.txt",
+    "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser/CMakeLists.txt",
     "/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
-    "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt"
+    "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" clean"
+    "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" clean"
   ],
-  "buildTargetsCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "parser-Debug-x86": {
       "artifactName": "parser",
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" parser",
+      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" parser",
       "abi": "x86",
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so"
+      "output": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libparser.so"
     },
     "native-Debug-x86": {
       "artifactName": "native",
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" native",
+      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/x86\" native",
       "abi": "x86",
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libnative.so"
+      "output": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/x86/libnative.so"
     }
   }
 }

@@ -1,141 +1,59 @@
 {
   "stringTable": {
-    "0": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a",
+    "0": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/armeabi-v7a",
     "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
-    "2": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dcorrection_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
-    "3": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dfkf_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
-    "4": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dquaternion_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
-    "5": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dparser_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+    "2": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dparser_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
   },
   "buildFiles": [
     "/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser/CMakeLists.txt",
+    "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser/CMakeLists.txt",
     "/home/marsh/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/CMakeLists.txt",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/correction/CMakeLists.txt",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion/CMakeLists.txt",
-    "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/CMakeLists.txt"
+    "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a\" clean"
+    "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/armeabi-v7a\" clean"
   ],
-  "buildTargetsCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "native-Debug-armeabi-v7a": {
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a\" native",
+      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/armeabi-v7a\" native",
       "buildType": "debug",
-      "toolchain": "164593824",
+      "toolchain": "231633635",
       "abi": "armeabi-v7a",
       "artifactName": "native",
       "files": [
         {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser.cpp",
-          "flagsOrdinal": 1,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/correction.cpp",
-          "flagsOrdinal": 1,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf.cpp",
+          "src": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative.so"
-    },
-    "quaternion-Debug-armeabi-v7a": {
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a\" quaternion",
-      "buildType": "debug",
-      "toolchain": "164593824",
-      "abi": "armeabi-v7a",
-      "artifactName": "quaternion",
-      "files": [
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion/fast_kalman_filter.c",
-          "flagsOrdinal": 4,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion/matrix.c",
-          "flagsOrdinal": 4,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion/quat.c",
-          "flagsOrdinal": 4,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quaternion/sensor.c",
-          "flagsOrdinal": 4,
-          "workingDirectoryOrdinal": 0
-        }
-      ],
-      "headers": [],
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libquaternion.so"
+      "output": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative.so"
     },
     "parser-Debug-armeabi-v7a": {
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a\" parser",
+      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/armeabi-v7a\" parser",
       "buildType": "debug",
-      "toolchain": "164593824",
+      "toolchain": "231633635",
       "abi": "armeabi-v7a",
       "artifactName": "parser",
       "files": [
         {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/parser/parser.cpp",
-          "flagsOrdinal": 5,
-          "workingDirectoryOrdinal": 0
-        }
-      ],
-      "headers": [],
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libparser.so"
-    },
-    "correction-Debug-armeabi-v7a": {
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a\" correction",
-      "buildType": "debug",
-      "toolchain": "164593824",
-      "abi": "armeabi-v7a",
-      "artifactName": "correction",
-      "files": [
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/correction/correction.cpp",
+          "src": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/cpp/parser/parser.cpp",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libcorrection.so"
-    },
-    "fkf-Debug-armeabi-v7a": {
-      "buildCommand": "/home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/.cxx/cmake/debug/armeabi-v7a\" fkf",
-      "buildType": "debug",
-      "toolchain": "164593824",
-      "abi": "armeabi-v7a",
-      "artifactName": "fkf",
-      "files": [
-        {
-          "src": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/cpp/fkf/quatTest.cpp",
-          "flagsOrdinal": 3,
-          "workingDirectoryOrdinal": 0
-        }
-      ],
-      "headers": [],
-      "output": "/home/marsh/git/src/github.com/wonder-wonder/ws-ble-v1-android-sdk/BLETest/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libfkf.so"
+      "output": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/armeabi-v7a/libparser.so"
     }
   },
   "toolchains": {
-    "164593824": {
-      "cCompilerExecutable": "/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+    "231633635": {
       "cppCompilerExecutable": "/home/marsh/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
     }
   },
-  "cFileExtensions": [
-    "c"
-  ],
+  "cFileExtensions": [],
   "cppFileExtensions": [
     "cpp"
   ]
