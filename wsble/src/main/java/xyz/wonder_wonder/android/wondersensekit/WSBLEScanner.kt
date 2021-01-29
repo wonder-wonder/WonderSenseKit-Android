@@ -2,10 +2,7 @@ package xyz.wonder_wonder.android.wondersensekit
 
 import android.bluetooth.BluetoothAdapter
 import android.bluetooth.BluetoothManager
-import android.bluetooth.le.BluetoothLeScanner
-import android.bluetooth.le.ScanCallback
-import android.bluetooth.le.ScanResult
-import android.bluetooth.le.ScanSettings
+import android.bluetooth.le.*
 import android.content.Context
 import android.content.pm.PackageManager
 import android.os.Build
@@ -89,9 +86,12 @@ object WSBLEScanner {
     }
 
     private fun scanNewDevice() {
+        val filter = ScanFilter.Builder()
+            .setDeviceName(WSBLEConfig.DeviceName)
+            .build()
         val settings = ScanSettings.Builder()
             .setReportDelay(2500)
             .setScanMode(ScanSettings.SCAN_MODE_LOW_POWER).build()
-        bleScanner.startScan(null, settings, scanCallback)
+        bleScanner.startScan(listOf(filter), settings, scanCallback)
     }
 }
