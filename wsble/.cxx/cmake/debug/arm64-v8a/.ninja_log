@@ -1,0 +1,5 @@
+# ninja log v5
+17	1491	1611922042	parser/CMakeFiles/parser.dir/parser.cpp.o	9986bc9d638e1037
+1491	1567	1611922042	/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/arm64-v8a/libparser.so	ec24d39c997c2aad
+0	3128	1611922044	CMakeFiles/native.dir/parser.cpp.o	54bb97bea2a8c7e6
+3128	3768	1611922044	/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj/arm64-v8a/libnative.so	347c95c466707005

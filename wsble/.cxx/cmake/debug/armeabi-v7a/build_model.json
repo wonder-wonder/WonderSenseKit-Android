@@ -163,6 +163,7 @@
       "project": {
         "compilerSettingsCacheFolder": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/.cxx",
         "cxxFolder": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/.cxx",
+        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -185,10 +186,8 @@
     "objFolder": "/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/build/intermediates/cmake/debug/obj",
     "variantName": "debug",
     "validAbiList": [
-      "ARMEABI_V7A",
       "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "ARMEABI_V7A"
     ]
   }
 }

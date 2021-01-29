@@ -27,9 +27,21 @@ object WSBLEScanner {
         override fun onScanResult(callbackType: Int, result: ScanResult?) {
             super.onScanResult(callbackType, result)
 
+            Log.d(TAG, "TEST")
             if (result != null && result.device.name == WSBLEConfig.DeviceName) {
                 val wsble = WSBLE(result.device)
                 find_cbFunc.invoke(wsble, null)
+            }
+        }
+
+        override fun onBatchScanResults(results: MutableList<ScanResult>?) {
+            super.onBatchScanResults(results)
+
+            if (results != null) {
+                Log.d(TAG, "-----------------------")
+                for (it in results) {
+                    Log.d(TAG, ">> ${it.device.name}")
+                }
             }
         }
 
@@ -78,7 +90,8 @@ object WSBLEScanner {
 
     private fun scanNewDevice() {
         val settings = ScanSettings.Builder()
-            .setScanMode(ScanSettings.SCAN_MODE_BALANCED).build()
+            .setReportDelay(2500)
+            .setScanMode(ScanSettings.SCAN_MODE_LOW_POWER).build()
         bleScanner.startScan(null, settings, scanCallback)
     }
 }

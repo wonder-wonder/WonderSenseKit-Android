@@ -8,7 +8,6 @@ import android.os.Bundle
 import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.core.content.ContextCompat
-import kotlinx.android.synthetic.main.activity_main.*
 import xyz.wonder_wonder.android.wondersensekit.*
 
 private const val TAG = "MainActivity"
@@ -25,18 +24,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.d(TAG, "this is test....")
 
-
-        val filter: WSFKF = WSFKF()
-        filter.initFilter()
-        val dataStream = WSDataStream()
-        dataStream.setFilteredDataCB(filter, {
-
-        })
-
-        dataStream.setRawDataCB {
-            Log.d(TAG, "mag data: ${it.mx}, ${it.my}, ${it.mz}")
-        }
-
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
                 != PackageManager.PERMISSION_GRANTED) {
             // Permission is not granted
@@ -48,28 +35,8 @@ class MainActivity : AppCompatActivity() {
             Log.d(TAG, "Scanning after request permission")
         }
 
-
-        connectSwitch.setOnCheckedChangeListener { compoundButton, b ->
-            if (b) {
-                connectBLE()
-            } else {
-                connectedBLE.disconnect()
-            }
-        }
-
-        streamSwitch.setOnCheckedChangeListener { compoundButton, b ->
-
-            if (b) {
-                Log.d(TAG, "start data stream")
-                connectedBLE.startDataStream { arrayOfWSBLEDatas, error ->
-                    Log.d(TAG, "Get parsed result")
-                    dataStream.receiveData(arrayOfWSBLEDatas)
-                }
-
-            } else {
-                Log.d(TAG, "stop data stream")
-                connectedBLE.stopDataStream()
-            }
+        val scanner = WSBLEScanner
+        scanner.startFind(this) { _: WSBLE, _: Error? ->
 
         }
     }

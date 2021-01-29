@@ -1,0 +1,8 @@
+Executable : /home/marsh/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/armeabi-v7a
+native
+parser
+jvmArgs : 
+

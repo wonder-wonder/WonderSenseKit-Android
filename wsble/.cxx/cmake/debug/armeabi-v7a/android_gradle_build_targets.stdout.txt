@@ -1,0 +1,2 @@
+ninja: Entering directory `/mnt/hdd/marsh/src/github.com/wonder-wonder/WonderSenseKit-Android/wsble/.cxx/cmake/debug/armeabi-v7a'
+ninja: no work to do.
