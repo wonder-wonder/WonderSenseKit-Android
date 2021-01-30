@@ -24,7 +24,6 @@ object WSBLEScanner {
         override fun onScanResult(callbackType: Int, result: ScanResult?) {
             super.onScanResult(callbackType, result)
 
-            Log.d(TAG, "TEST")
             if (result != null && result.device.name == WSBLEConfig.DeviceName) {
                 val wsble = WSBLE(result.device)
                 find_cbFunc.invoke(wsble, null)
@@ -35,9 +34,8 @@ object WSBLEScanner {
             super.onBatchScanResults(results)
 
             if (results != null) {
-                Log.d(TAG, "-----------------------")
                 for (it in results) {
-                    Log.d(TAG, ">> ${it.device.name}")
+                    find_cbFunc.invoke(WSBLE(it.device), null)
                 }
             }
         }
